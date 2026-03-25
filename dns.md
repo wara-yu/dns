@@ -1478,7 +1478,7 @@
 ||tbsradio.jp^
 ||telasa.jp^
 ||teoma.com^
-||testgrid.io/^
+||testgrid.io^
 ||testmuai.com^
 ||tfm.co.jp^
 ||the-3rd.net^
