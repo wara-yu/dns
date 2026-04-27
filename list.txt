@@ -2,3 +2,4 @@
 ||example.com^
 ||patreon.com^
 ||syoboi.jp^
+||5ch.io^
