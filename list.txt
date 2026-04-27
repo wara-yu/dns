@@ -6,3 +6,4 @@
 ||etc64.com^
 ||dengekionline.com^
 ||/fate-grandorder.net^
+||fate-grandorder.net^
