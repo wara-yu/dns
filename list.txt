@@ -9,3 +9,4 @@
 ||fate-grandorder.net^
 ||lemino.docomo.ne.jp/^
 ||hulu.jp^
+||ntv.co.jp^
