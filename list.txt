@@ -10,3 +10,4 @@
 ||lemino.docomo.ne.jp/^
 ||hulu.jp^
 ||ntv.co.jp^
+||musiccosmos.ru^
