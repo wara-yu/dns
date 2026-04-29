@@ -11,3 +11,4 @@
 ||hulu.jp^
 ||ntv.co.jp^
 ||musiccosmos.ru^
+||datazoo.jp^
